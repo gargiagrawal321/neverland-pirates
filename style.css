@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas{
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 4px solid blue;
+  }
+  
+  
